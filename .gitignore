@@ -1,0 +1,4 @@
+donotcommit.txt
+*.log
+logs/
+log/
